@@ -5,7 +5,7 @@
  Utilizei alguns filtros como raça/estado, genero/estado e uma comparação do ano de 2015 com 2020.
  Junto dos filtros utilizei alguns gráficos para melhorar a visualização
  
- # **Exemplos
+ # **Exemplos**
  
 |**Diferença de mortes por genero**    |           **Mortes entre raças**         |       **Comparação de 2015 e 2020**      |
 | :----------------------------------: | :--------------------------------------: | :--------------------------------------: |
