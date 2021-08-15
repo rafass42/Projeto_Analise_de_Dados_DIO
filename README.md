@@ -11,11 +11,11 @@
 | :----------------------------------: | :--------------------------------------: | :--------------------------------------: |
 |![](https://i.imgur.com/KONH7gN.png)  |    ![](https://i.imgur.com/UlcaexT.png)  |     ![](https://i.imgur.com/s8crAPI.png) |
 
-#Raças
-** W = White
-** B = Black
-** A = Asian
-** N = Native American
-** H = Hispanic
-** O = Other
+# Raças
+** W = White**
+** B = Black**
+** A = Asian**
+** N = Native American**
+** H = Hispanic**
+** O = Other**
  
